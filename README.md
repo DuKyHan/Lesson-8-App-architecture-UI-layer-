@@ -1,6 +1,7 @@
 Unscramble App
 ===================================
-
+## Name: Truong Duy Khang
+## ID: ITITIU19137
 ## Store data in ViewModel
 ![Store data in ViewModel](https://github.com/DuKyHan/Lesson-8-App-architecture-UI-layer-/assets/87019372/53540b78-5fcd-469e-9c24-c2c9ceb89b23)
 
